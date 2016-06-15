@@ -9,11 +9,9 @@ body{
 	margin:0;
 	background: #fff;
 	min-height: 100vh;
+
 }
-h1{
-	color: blue;
-	text-align: center;
-}
+
 img{
 	margin:10px auto;
 	display: block;
@@ -23,9 +21,8 @@ form{
 	max-width: 550px;
 	margin: auto;
 	background-color: #eee;
-	border-radius: 5px;
 	border: 0;
-	padding: 15px;
+	padding: 20px 5px;
 	border: 1px solid #999;
 }
 h2{
@@ -42,10 +39,12 @@ h2{
 }
 input{
 	margin-bottom: 15px;
-	padding: 15px;
+	padding: 10px;
 	font-size: 17px;
-	border-radius: 3px;
-	border: 1px solid darkgrey;
+	border: none;
+	border-radius: 5px;
+	border: 1px solid grey;
+	color: #222;
 }
 .input-50{
 	width: 48%;
